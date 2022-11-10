@@ -3,7 +3,7 @@
 """
 importing all the neccessary libraries
 
-@author: Steven, Ziyun 
+@author: Steven
 @affiliation: Unviersity of Auckland
 
 """
