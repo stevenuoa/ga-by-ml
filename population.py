@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-importing all the neccessary libraries
-
-@author: Steven
-@affiliation: Unviersity of Auckland
-
-"""
 
 
 """ Implementation of a population for maintaining a GA population and
